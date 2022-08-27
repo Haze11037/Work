@@ -21,7 +21,7 @@
   };
   {
     "WMKBTWGUYS IV",
-    {}
+    {"sdafegrshrt"}
   };
   {
     "WMKBTWGUYS V",
@@ -37,6 +37,6 @@
   };
   {
     "Member",
-    {"RedSaness1","sdafegrshrt","axel_688"}
+    {"RedSaness1","axel_688"}
   };
 }
