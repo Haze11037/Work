@@ -1,4 +1,4 @@
-{
+local data = {
   {
     ["Discord Id"] = 561836115032801290;
     ["Games"] = {
@@ -6,3 +6,4 @@
     };
   };
 }
+return data
