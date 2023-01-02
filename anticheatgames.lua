@@ -1,4 +1,4 @@
-local data = {
+data = {
   {
     ["Discord Id"] = 561836115032801290;
     ["Games"] = {
